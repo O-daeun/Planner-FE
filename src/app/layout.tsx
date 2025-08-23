@@ -1,4 +1,4 @@
-import { MSWProvider } from '@/components/msw-provider';
+import { MSWProvider } from '@/components/providers/msw-provider';
 import { QueryProvider } from '@/components/providers/query-provider';
 import type { Metadata } from 'next';
 import './globals.css';
